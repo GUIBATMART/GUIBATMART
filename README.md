@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Seguem meus contatos abaixo!
+  ### Segue meus contatos abaixo!
  
 <div> 
 
