@@ -1,14 +1,8 @@
-## Bem-vindo(a) ao perfil do GUIBATMART 😁
+## Bem-vindo(a) ao meu perfil 😁
 
 ### 📁 Atuação profissional
 
-Analista de Sistemas | Analista de Negócios | Analista de Automações | RPA | Power Automate | Python | SQL | Power BI | ERP | Remoto
-
-<br>
-
-<div align="center">
-  <img src="https://github.com/GUIBATMART.png" width="200" style="border-radius: 50%;">
-</div>
+Analista de Sistemas | Analista de Negócios | Analista de Automações | RPA | Automação de energia | Python | SQL | Power BI | ERP | Remoto
 
 <br>
 
@@ -25,7 +19,6 @@ Analista de Sistemas | Analista de Negócios | Analista de Automações | RPA | 
 ### 📬 Segue meus contatos abaixo!
 
 <div> 
-
   <a href="https://www.linkedin.com/in/guilherme-batista-175b31223/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
