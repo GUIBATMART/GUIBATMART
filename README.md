@@ -1,4 +1,9 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Bem-vindo(a) ao meu perfil 😁  
+    
+  </a>
+</div>
+
+Sou Bacharel em Sistemas de Informação e atualmente cursando pós-graduação em Engenharia de Automação de Processos com IA. Trabalho com tecnologia voltada para dados, automação e integração de sistemas, sempre buscando eficiência operacional, melhoria contínua e apoio à tomada de decisão estratégica.
 
 <!-- BOTÃO ANIMADO DO PORTFÓLIO -->
 <div style="margin: 20px 0;">
@@ -16,13 +21,6 @@
      "
      onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 20px rgba(10,102,194,0.8)';"
      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px rgba(10,102,194,0.5)';">
-    
-    
-  </a>
-</div>
-
-Sou Bacharel em Sistemas de Informação e atualmente cursando pós-graduação em Engenharia de Automação de Processos com IA. Trabalho com tecnologia voltada para dados, automação e integração de sistemas, sempre buscando eficiência operacional, melhoria contínua e apoio à tomada de decisão estratégica.
-
  🚀 PORTIFÓLIO
 
 ### 📁 Atuação profissional
