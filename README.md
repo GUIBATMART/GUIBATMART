@@ -1,8 +1,8 @@
 ## Bem-vindo(a) ao perfil do GUIBATMART 😁
 
-### 💼 **Atuação profissional**
+### 📁 Atuação profissional
 
-**Analista de Sistemas | Analista de Negócios | Analista de Automações | RPA | Power Automate | Python | SQL | Power BI | ERP | Remoto**
+Analista de Sistemas | Analista de Negócios | Analista de Automações | RPA | Power Automate | Python | SQL | Power BI | ERP | Remoto
 
 <br>
 
@@ -14,9 +14,10 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Power Automate" height="30" width="40" src="https://cdn.simpleicons.org/powerautomate/0066FF">
-  <img align="center" alt="VBA" height="30" width="40" src="https://cdn.simpleicons.org/microsoftoffice/D83B01">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.simpleicons.org/mysql/4479A1">
+  <img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 <br>
