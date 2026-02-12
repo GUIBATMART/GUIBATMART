@@ -2,7 +2,7 @@
 
 ### 📁 Atuação profissional
 
-Analista de Sistemas | Analista de Negócios | Analista de Automações | RPA | Automação de energia | Python' | SQL | Power BI | ERP | Remoto
+Analista de Sistemas | Analista de Negócios | Analista de Automações | RPA | Automação de energia | Python | SQL | Power BI | ERP | Remoto
 
 <br>
 
