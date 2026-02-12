@@ -17,6 +17,7 @@
      onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 20px rgba(10,102,194,0.8)';"
      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 10px rgba(10,102,194,0.5)';">
      🚀 PORTFÓLIO
+    
   </a>
 </div>
 
