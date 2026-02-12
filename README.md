@@ -20,6 +20,8 @@
   </a>
 </div>
 
+Sou Bacharel em Sistemas de Informação e atualmente cursando pós-graduação em Engenharia de Automação de Processos com IA. Trabalho com tecnologia voltada para dados, automação e integração de sistemas, sempre buscando eficiência operacional, melhoria contínua e apoio à tomada de decisão estratégica.
+
 ### 📁 Atuação profissional
 
 Analista de Sistemas | Analista de Negócios | Analista de Automações | RPA | Automação de energia | Python | SQL | Power BI | ERP | Remoto
