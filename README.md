@@ -6,7 +6,7 @@ Sou Bacharel em Sistemas de Informação e atualmente cursando pós-graduação 
 
 <!-- BOTÃO ANIMADO DO PORTFÓLIO -->
 <div style="margin: 20px 0;">
-  <a href="https://gbmtech.wixsite.com/porfifolio" target="_blank"
+  <a href="https://gbmtech.wixsite.com/porfifoliobsb" target="_blank"
      style="
      display: inline-block;
      padding: 10px 20px;
